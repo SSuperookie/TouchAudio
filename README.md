@@ -1,4 +1,5 @@
 # TouchAudio
+## Wearable Environment Alert System with Sound Perception Technology for the Hearing Impaired
  This project aims to design and develop a wearable environmental sound perception
  system for the deaf based on sound recognition and electro-tactile feedback, offering an
  intelligent auditory assistive solution. Through the application of sound classification
