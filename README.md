@@ -15,3 +15,15 @@ Hardware Setting
 
 Testing and Wearing Method
 <img width="957" height="363" alt="image" src="https://github.com/user-attachments/assets/8d62343a-52e0-4cd0-a294-c80bd12d8c86" />
+
+App Prototype
+<p align="center">
+  ![QQ图片20240408134204](https://github.com/user-attachments/assets/6a66f14c-d876-420c-813c-114212db4785)
+  ![QQ图片20240408134220](https://github.com/user-attachments/assets/070d18ad-223d-495c-9a68-4d5325388899)
+  ![Screenshot_20240408_120548_touchaudio](https://github.com/user-attachments/assets/40f8e16b-1a5e-4aea-b7d9-049e0ca66027)
+  ![Screenshot_20240408_120528_touchaudio](https://github.com/user-attachments/assets/ea798f85-4a3c-4217-8085-36518583705d)
+  ![Screenshot_20240408_120617_touchaudio](https://github.com/user-attachments/assets/2540a052-6d16-4f7e-ac34-7c66bba8f8e6)
+</p>
+
+
+
